@@ -1,10 +1,10 @@
 {
   "title": "Biotech-bg",
   "titleTemplate": "| Biotech-bg",
-  "welcomeText": "### Biotechnology, Machine Learning, Nutrition, Energy\n\nHello All,\n\nW﻿e are glad to present you with our first place where we will share with you and try to connect and grow further together in regards to developing and implementing systems, that can help us and our society to become healthier and free.\n\nIn the section Stivo Tech you can find our work related to mechanical systems for food distribution and automation. Currently, there is work in progress for a machine learning system, based on information obtained from the agro-business.\n\nEnjoy. Please connect with us to discuss your ideas, and how we can work together and make our home better. Lets the power of nature be with us!",
+  "welcomeText": "### Biotechnology, Machine Learning, Nutrition, Energy\n\nHello All,\n\nW﻿e are glad to present you with our first place where we will share with you and try to connect and grow further together in regards to developing and implementing systems, that can help us and our society to become healthier and free.\n\nIn the section Stivo Tech you can find our work related to mechanical systems for food distribution and automation. Currently, there is work in progress for a machine learning system, based on information obtained from the agro-business.\n\nEnjoy. Please connect with us to discuss your ideas, and how we can work together and make our home better. Lets the power of nature be with us!\n\ne﻿mail: <!--StartFragment-->\n\n [info@biotech-bg.com](mailto:info@biotech-bg.com)\n\n<!--EndFragment-->",
   "logo": "/images/uploads/logo-small.png",
   "icon": "/images/uploads/logo-small.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Biotechnology, Machine Learning, Nutrition, Energy",
   "seoMetaImage": ""
 }
